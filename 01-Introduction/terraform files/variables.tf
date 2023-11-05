@@ -10,7 +10,7 @@ variable "my_instance_type" {
 
 variable "my_key" {
   type    = string
-  default = "mavenkey"
+  default = "ansible-key"
 }
 
 
